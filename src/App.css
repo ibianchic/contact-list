@@ -2,9 +2,10 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.square-image {
+  width: 200px; /* Ajusta el tamaño de acuerdo a tus necesidades */
+  height: 300px; /* Ajusta el tamaño de acuerdo a tus necesidades */
+  object-fit: cover;
 }
 
 @media (prefers-reduced-motion: no-preference) {
